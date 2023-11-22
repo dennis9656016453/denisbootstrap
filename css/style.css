@@ -1,0 +1,35 @@
+#pgraph {
+    color:brown;
+    border: 2px teal;
+    background-color: gold;
+    padding: 30px;
+    margin: 20px;
+}
+#pgraph {
+    color:black;
+    border: 2px hotpink;
+    background-color: lightcoral;
+    padding: 30px;
+    margin: 20px;
+}
+#pgraph {
+    color:blue;
+    border: 2px tomato;
+    background-color: greenyellow;
+    padding: 30px;
+    margin: 20px;
+}
+#pgraph {
+    color:chartreuse;
+    border: 2px red;
+    background-color: wheat;
+    padding: 30px;
+    margin: 20px;
+}
+#pgraph {
+    color:brown
+    border: 2px solid blue;
+    background-color: cyan;
+    padding: 30px;
+    margin: 20px;
+}

@@ -1,0 +1,54 @@
+body {
+    background-image: url("../images/e30.jpg");
+    background-size: cover;
+}
+header {
+    background-color: black;
+    height: 70px;
+}
+
+.navigation {
+    float:right;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+
+.navigation a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    text-decoration:none;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.navigation a:hover{
+    background-color: brown;
+    color: black;
+}
+/* aside */
+.side_class{
+    color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 100px;
+    float:left;
+}
+
+.side h3{
+    margin: 20px;
+}
+.side li {
+    padding: 4px;
+
+}
+
+/* aside */
+
+/* form */
+.my_login{
+    border: 3px solid black;
+    background-color: bisque;
+    float: right;
+    margin-top: -140px;
+
+}
+/* form */
